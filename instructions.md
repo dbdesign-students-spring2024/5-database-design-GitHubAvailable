@@ -51,7 +51,7 @@ Draw an [Entity-Relationship Diagram](https://knowledge.kitchen/content/courses/
 - export the diagram(s) in SVG format into the directory named `images`.
 - publish the diagram(s) to your report, as described below.
 
-A [sample .drawio file](./images/example-er-diagrams.drawio) has been included in this repository for example.
+A ![sample .drawio file](./images/example-er-diagrams.drawio.svg) has been included in this repository for example.
 
 - do not open this file in your code editor
 - once you have cloned this repository on your own computer, open your local copy of this file in draw.io
